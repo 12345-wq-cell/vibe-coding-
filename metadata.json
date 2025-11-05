@@ -1,0 +1,5 @@
+{
+  "name": "AI Website Builder",
+  "description": "Generate a complete website with HTML, CSS, and JavaScript from a simple text prompt using the Gemini API. Instantly preview your creation and get the code.",
+  "requestFramePermissions": []
+}
